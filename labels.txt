@@ -1,0 +1,2 @@
+side-face/sideFace_10000.jpg
+front-face/frontFace_6866.jpg
